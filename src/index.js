@@ -34,8 +34,6 @@
             "ninety",
         ];
 
-        const numLength = number.toString().length;
-
         if (number <= 19) {
             return belowTwenty[number];
         }
